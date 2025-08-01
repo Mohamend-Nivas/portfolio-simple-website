@@ -1,4 +1,4 @@
-# portfolio-simple-website
+# My-portfolio-website
 
 welcome to my portfolio website! This is a basic portfolio website built using HTML and CSS. It contains two pages: a Home page to introduce myself and a Contact page for visitors to reach out.
 

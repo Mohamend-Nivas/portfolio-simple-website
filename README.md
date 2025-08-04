@@ -1,6 +1,7 @@
 ## My-portfolio-website
 
-welcome to my portfolio website! This is a basic portfolio website built using HTML and CSS. It contains two pages: a Home page to introduce myself and a Contact page for visitors to reach out.
+welcome to my portfolio website! This is a basic portfolio website built using HTML and CSS. It contains two pages: a Home
+page to introduce myself and a Contact page for visitors to reach out.
 
  ## Pages Included
  
@@ -9,8 +10,8 @@ welcome to my portfolio website! This is a basic portfolio website built using H
 
 ## Technologies Used
 
- -HTML5
- -CSS3 (basic styling only, no frameworks)
+ - HTML5
+ - CSS3 (basic styling only, no frameworks)
 
 ## How to view
 

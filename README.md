@@ -5,8 +5,8 @@ page to introduce myself and a Contact page for visitors to reach out.
 
  ## Pages Included
  
--**Home Page (index.html)** – Introduction and brief overview
--**Contact Page (contact.html)**– Simple contact form or contact details
+-**Home Page (index.html)**  –  Introduction and brief overview
+-**Contact Page (contact.html)**  – Simple contact form or contact details
 
 ## Technologies Used
 
